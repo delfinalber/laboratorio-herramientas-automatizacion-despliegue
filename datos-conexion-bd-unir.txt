@@ -1,0 +1,11 @@
+Nombre de usuario: delfinalber_db_user
+Contraseña: C9cEHIohPeDrYQaU
+1. Agregar una dirección IP de conexión
+Se agregó su dirección IP actual ( 181.235.216.249 ) para habilitar la conectividad local. Solo las direcciones IP que agregue a su lista de acceso podrán conectarse a los clústeres de su proyecto. Agregue más direcciones más adelante en Acceso a la red . 
+3.Conéctese a su implementación de MongoDB.
+mongodb+srv://delfinalber_db_user:C9cEHIohPeDrYQaU@unir-delfin-actividad2.tv4aqrt.mongodb.net/
+
+3.Conéctese a su implementación de MongoDB.
+Pegue su cadena de conexión en la paleta de comandos.
+mongodb+srv://delfinalber_db_user:<db_password>@unir-delfin-actividad2.tv4aqrt.mongodb.net/Reemplace <db_password> con la contraseña del usuario delfinalber_db_user . Asegúrese de que todas las opciones estén codificadas en URL.   Puede editar la contraseña de usuario de su base de datos en Database Access.  
+
